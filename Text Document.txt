@@ -1,0 +1,3 @@
+﻿John Doe, 19, Chemistry
+Jane Smith, 20, Computer Science
+Mike Johnson, 18, Mathematics
